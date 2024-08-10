@@ -11,12 +11,12 @@ export default function Clients2() {
             clients</h1>
         </div>
         <div className="flex flex-wrap items-center justify-center gap-6">
-          <img className='w-40 grayscale opacity-75' src="src/img/logo-coinbase.svg" alt="" />
-          <img className='w-40 grayscale opacity-75' src="src/img/logo-spotify.svg" alt="" />
-          <img className='w-40 grayscale opacity-75' src="src/img/logo-pinterest.svg" alt="" />
-          <img className='w-40 grayscale opacity-75' src="src/img/logo-google.svg" alt="" />
-          <img className='w-40 grayscale opacity-75' src="src/img/logo-amazon.svg" alt="" />
-          <img className='w-40 grayscale opacity-75' src="src/img/logo-netflix.svg" alt="" />
+          <img className='w-40 h-full grayscale opacity-75' src="src/img/logo-coinbase.svg" alt="" />
+          <img className='w-40 h-full grayscale opacity-75' src="src/img/logo-spotify.svg" alt="" />
+          <img className='w-40 h-full grayscale opacity-75' src="src/img/logo-pinterest.svg" alt="" />
+          <img className='w-40 h-full grayscale opacity-75' src="src/img/logo-google.svg" alt="" />
+          <img className='w-40 h-full grayscale opacity-75' src="src/img/logo-amazon.svg" alt="" />
+          <img className='w-40 h-full grayscale opacity-75' src="src/img/logo-netflix.svg" alt="" />
         </div>
       </div>
     </section>
