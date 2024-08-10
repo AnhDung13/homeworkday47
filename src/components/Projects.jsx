@@ -4,42 +4,42 @@ export default function Projects() {
 
   const items = [
     {
-        imgSrc: 'src/img/blog1.svg',
+        imgSrc: './src/img/blog1.svg',
         title: 'Mobile App Development',
         content: 'Mobile app designed to help users discover and explore local restaurants and cuisines.',
     },
     {
-        imgSrc: 'src/img/blog2.svg',
+        imgSrc: './src/img/blog2.svg',
         title: 'Landing Page Development',
         content: 'Promotional landing page for a fitness website Summer Campaign. Form development included.',
     },
     {
-        imgSrc: 'src/img/blog3.svg',
+        imgSrc: './src/img/blog3.svg',
         title: 'Mobile App Development',
         content: 'Mobile app designed to help users discover and explore local restaurants and cuisines.',
     },
     {
-        imgSrc: 'src/img/blog4.svg',
+        imgSrc: './src/img/blog4.svg',
         title: 'E-commerce development',
         content: 'Ecommerce website offering access to the latest and greatest gadgets and accessories.',
     },
     {
-        imgSrc: 'src/img/blog1.svg',
+        imgSrc: './src/img/blog1.svg',
         title: 'Mobile App Development',
         content: 'Mobile app designed to help users discover and explore local restaurants and cuisines.',
     },
     {
-        imgSrc: 'src/img/blog2.svg',
+        imgSrc: './src/img/blog2.svg',
         title: 'Landing Page Development',
         content: 'Promotional landing page for a fitness website Summer Campaign. Form development included.',
     },
     {
-        imgSrc: 'src/img/blog3.svg',
+        imgSrc: './src/img/blog3.svg',
         title: 'Mobile App Development',
         content: 'Mobile app designed to help users discover and explore local restaurants and cuisines.',
     },
     {
-        imgSrc: 'src/img/blog4.svg',
+        imgSrc: './src/img/blog4.svg',
         title: 'E-commerce development',
         content: 'Ecommerce website offering access to the latest and greatest gadgets and accessories.',
     },
